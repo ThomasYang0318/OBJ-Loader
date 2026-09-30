@@ -1,0 +1,48 @@
+# 編譯輸出
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# IDE和編輯器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+build/
+
+# 構建目錄
+build/
+dist/
+cmake-build-debug/
+cmake-build-release/
+
+# 臨時文件
+*.tmp
+*.log
+*.swp
+
+# 二進制文件
+.DS_Store
+Thumbs.db

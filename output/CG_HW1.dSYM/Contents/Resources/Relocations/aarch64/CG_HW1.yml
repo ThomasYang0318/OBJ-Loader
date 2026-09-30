@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'output/CG_HW1'
+relocations:     []
+...
